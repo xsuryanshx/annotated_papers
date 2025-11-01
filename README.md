@@ -2,6 +2,8 @@
 
 A curated collection of research papers with personal annotations, notes, and insights.
 
+> **New here?** Check out the [Quick Start Guide](QUICK_START.md) to add your first paper in 5 minutes!
+
 ## 📚 Purpose
 
 This repository serves as a personal knowledge base for research papers I've read and annotated. Each paper includes:
