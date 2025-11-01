@@ -18,16 +18,18 @@ Choose from:
 
 Name format: `Author_Year_ShortTitle`
 
+Example from repository root:
+
 ```bash
-cd papers/deep_learning/
-mkdir Vaswani_2017_Attention
-cd Vaswani_2017_Attention
+# From repository root
+mkdir -p papers/deep_learning/Vaswani_2017_Attention
 ```
 
 ### 3. Copy the Template
 
 ```bash
-cp ../../../templates/PAPER_TEMPLATE.md README.md
+# From repository root
+cp templates/PAPER_TEMPLATE.md papers/deep_learning/Vaswani_2017_Attention/README.md
 ```
 
 ### 4. Fill It Out

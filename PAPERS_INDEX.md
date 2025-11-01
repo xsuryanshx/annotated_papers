@@ -6,7 +6,7 @@ A complete catalog of all annotated papers in this repository, organized by cate
 
 - **Total Papers**: 1 (including example)
 - **Categories**: 6
-- **Last Updated**: 2025-11-01
+- **Last Updated**: 2024-11-01
 
 ---
 
